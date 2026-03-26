@@ -1,9 +1,7 @@
 <div align="center">
-  <h1>Emu-Hawk</h1>
+  <h2>Emu-Hawk</h2>
   A hardware emulator for the CDC Hawk Drive.
 </div>
-
-</n>
 
 <p align="center">
   <img src="/docs/images/Emu-Hawk Logo.png" alt="Emu Hawk" width="40%">
