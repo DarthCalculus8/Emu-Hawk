@@ -2,5 +2,5 @@
 A hardware emulator for the CDC Hawk Drive.
 
 <p align="center">
-<img src="/docs/images/Emu-Hawk Logo.png" alt="Emu Hawk">
+<img src="/docs/images/Emu-Hawk Logo.png" alt="Emu Hawk" width="50%">
 </p>
