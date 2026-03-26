@@ -1,6 +1,3 @@
-<div align="center">
-  <h2>Emu-Hawk</h2>
-</div>
 
 <p align="center">
   <img src="/docs/images/Emu-Hawk Logo.png" alt="Emu Hawk" width="40%">
