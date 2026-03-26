@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align="center">
 # Emu-Hawk
 A hardware emulator for the CDC Hawk Drive.
 </div>
